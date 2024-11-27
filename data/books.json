@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "next_id": 3
+  },
+  "data": [
+    {
+      "id": 2,
+      "title": "пр",
+      "author": "ро",
+      "year": 9,
+      "status": "Выдана"
+    }
+  ]
+}
